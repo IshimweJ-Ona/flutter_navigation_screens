@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Video Recording Link
+https://youtu.be/wjQ00FmmLqk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
